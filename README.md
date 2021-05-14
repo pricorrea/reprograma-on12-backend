@@ -22,7 +22,6 @@ Ligou? Se sim, fim.
 Se não, repita o processo. 
 
 ## 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
-
 Na pia existem pratos sujos? 
 Se não, não faça nada. 
 Se sim. 
@@ -44,14 +43,54 @@ O sabão/detergente foi todo retirado dos pratos?
 Se sim, não faça nada. 
 Se não refaça o processo a partir para enxaguar os pratos.
 
+## 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+Confira se o pneu está furado. 
+Se não. Não faça nada. 
+Se sim. 
+Pegue o macaco e o step no porta malas e a chave de rodas
+Agora, usande o macaco para levantar o carro
+Tire os parafusos da roda com a chave de roda 
+Com a roda já sem todos os parafusos
+Retire a roda que o pneu está furado 
+Pegue o step 
+Coloque o step
+Recoloque os parafusos
+Aperte os parafusos
+Certifique-se que os parafusos estão bem apertados 
+Desça o carro utilizando o macaco
+Guarde o macaco e o step no porta malas 
 
-3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+## 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+Encontre um caixa eletrônico do seu banco
+Insira o cartão
+Digite a senha 
+Insira o valor desejado 
+Retire o cartão 
+Retire o dinheiro 
+Encerre a transação
 
-4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+## 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+Enquanto houver provas o processo deverá ser repetido 
+Separe o gabarito 
+Pegue uma prova 
+Pegua caneta vermelha 
+Inicie conferencia das respostas do gabarito com as respostas da prova. 
+Resposta 1 
+Resposta 2 
+Resposta 3 
+Resposta 4
+Resposta 5
+Ao finalizar a correção da prova, inserir a nota e repetir o processo.
 
-5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
-
-6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+## 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+Chame pessoas para brincar 
+Explique como funciona a brincadeira 
+Quando for dito vivo os particpantes deverão permanecer em pé
+Se o participante abaixar, será eliminado
+Quando for dito morto os participanetes deverão abaixar 
+Se o particioante ficar em pé, será eliminado
+A brincadeira continuará com os demais participantes a cada eliminação
+A brincadeira só acaba quando restar o último participante.
 
 ## 7. Faça um algoritmo que some três números.
 Escolha o primeiro número que deseja somar
