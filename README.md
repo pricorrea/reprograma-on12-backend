@@ -21,7 +21,7 @@ Ligue interrupidor para testar
 Ligou? Se sim, fim. 
 Se não, repita o processo. 
 
-2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+## 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
 Na pia existem pratos sujos? 
 Se não, não faça nada. 
@@ -53,10 +53,30 @@ Se não refaça o processo a partir para enxaguar os pratos.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
-7. Faça um algoritmo que some três números.
+## 7. Faça um algoritmo que some três números.
+Escolha o primeiro número que deseja somar
+Escolha o segundo número que deseja somar
+Escolha o terceiro número que deseja somar
+Agora some o primeiro com o segundo e o terceiro número
+Agora exibe o resultado final 
 
-8. Faça um algoritmo que descubra se um número é par ou ímpar.
+## 8. Faça um algoritmo que descubra se um número é par ou ímpar.
+Escolha um número 
+Divida ele por dois
+Se não tiver resto, o número será par.
+Se tiver resto, então o número será impar.
 
-9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+## 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+Inserir a primeira nota do aluno 
+Insira a segunda nota do aluno 
+Some a primeira e a segunda nota do aluno
+Divida por dois
+Levando em consideração a nota média sendo sete
+Ao dividir o resultado da soma das notas 
+Se o resultado for igual ou maior que sete, aprovado
+Se o resultado dor menor que sete, reprovado.
 
-10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+## 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+Inserir o valor do salário do funcionário 
+Se o valor for até R$500 deve ser acrescentado 20% do valor
+Se o valor for maior que R$500, então, o valor acrescentado deverá ser de 10%
